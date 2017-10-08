@@ -1,4 +1,4 @@
-class koss
+class Koss
 {
   public static void main(String args[])
   {
