@@ -1,1 +1,1 @@
-# Welcome to KOSs
+# Welcome to KOSS
